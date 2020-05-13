@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1501631046 source:d:\ied001\contadorv1\main.cpp
+	<iostream>
+
+1501633656 source:c:\users\jchiara\desktop\contadorv1\main.cpp
+	<iostream>
+	"contador.h"
+
+1501633560 c:\users\jchiara\desktop\contadorv1\contador.h
+

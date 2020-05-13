@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505869706 source:e:\estruturas de dados\fila alocacao sequencial\main.cpp
+	<iostream>
+	"fila.h"
+
+1505869218 e:\estruturas de dados\fila alocacao sequencial\fila.h
+
+1506434982 source:f:\estruturas de dados\fila alocacao sequencial\main.cpp
+	<iostream>
+	"fila.h"
+
+1506434982 f:\estruturas de dados\fila alocacao sequencial\fila.h
+

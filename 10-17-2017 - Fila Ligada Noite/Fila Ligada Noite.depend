@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508286590 source:d:\fila ligada noite\main.cpp
+	<iostream>
+	"filaligada.h"
+
+1508286342 d:\fila ligada noite\filaligada.h
+

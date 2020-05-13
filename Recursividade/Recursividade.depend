@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510694845 source:c:\users\user\desktop\fatec\ads 03\jorge chiara - estrutura de dados\recursividade\aleatorio.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

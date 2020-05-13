@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509495739 source:k:\recursivas\main.cpp
+	<iostream>
+	"recursiva.h"
+
+1509495737 k:\recursivas\recursiva.h
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503450402 source:f:\fatec - rl\lista linear\main.cpp
+	<iostream>
+	"listalinear.h"
+
+1503449864 f:\fatec - rl\lista linear\listalinear.h
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1502843016 source:k:\files\3s_2017\teatrovf_15-082017\main.cpp
+	<iostream>
+	"contador.h"
+
+1502842554 k:\files\3s_2017\teatrovf_15-082017\contador.h
+
+1502843018 source:c:\users\user\desktop\fatec\ads 03\jorge chiara\analise e desenvolvimento de sistemas\estruturas de dados\tp1 - representação de um teatro\main.cpp
+	<iostream>
+	"contador.h"
+
+1502842556 c:\users\user\desktop\fatec\ads 03\jorge chiara\analise e desenvolvimento de sistemas\estruturas de dados\tp1 - representação de um teatro\contador.h
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505260134 source:c:\users\user\desktop\fatec\analisa expressão\main.cpp
+	<iostream>
+	"pilha.h"
+
+1505260848 c:\users\user\desktop\fatec\analisa expressão\pilha.h
+
+1505264123 source:c:\users\user\desktop\fatec\ads 03\jorge chiara\analise e desenvolvimento de sistemas\estruturas de dados\tp03 - analisa expressão\analisa expressão\main.cpp
+	<iostream>
+	"pilha.h"
+
+1505260848 c:\users\user\desktop\fatec\ads 03\jorge chiara\analise e desenvolvimento de sistemas\estruturas de dados\tp03 - analisa expressão\analisa expressão\pilha.h
+

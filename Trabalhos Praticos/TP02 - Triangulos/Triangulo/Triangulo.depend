@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1504619983 source:c:\users\user\desktop\tp-02 triangulo\main.cpp
+	<iostream>
+	"ListaLinear.h"
+	"Triangulo.h"
+
+1504619982 c:\users\user\desktop\tp-02 triangulo\listalinear.h
+
+1504619990 c:\users\user\desktop\tp-02 triangulo\triangulo.h
+	<math.h>
+	<string.h>
+
+1504651315 source:c:\users\user\desktop\tp-02 triangulo\triangulo\main.cpp
+	<iostream>
+	"ListaLinear.h"
+	"Triangulo.h"
+
+1504652246 c:\users\user\desktop\tp-02 triangulo\triangulo\listalinear.h
+
+1504652415 c:\users\user\desktop\tp-02 triangulo\triangulo\triangulo.h
+	<math.h>
+	<string.h>
+
+1504651315 source:c:\users\user\desktop\fatec\ads 03\jorge chiara\analise e desenvolvimento de sistemas\estruturas de dados\tp02 - triangulos\triangulo\main.cpp
+	<iostream>
+	"ListaLinear.h"
+	"Triangulo.h"
+
+1504652246 c:\users\user\desktop\fatec\ads 03\jorge chiara\analise e desenvolvimento de sistemas\estruturas de dados\tp02 - triangulos\triangulo\listalinear.h
+
+1504652415 c:\users\user\desktop\fatec\ads 03\jorge chiara\analise e desenvolvimento de sistemas\estruturas de dados\tp02 - triangulos\triangulo\triangulo.h
+	<math.h>
+	<string.h>
+
